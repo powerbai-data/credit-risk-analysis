@@ -17,4 +17,4 @@ This project analyzes historical loan-level data to evaluate credit default risk
 - Borrowers with lower FICO scores and higher LTI ratios exhibit higher default risk
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard](assets/dashboard_preview.png)
